@@ -26,7 +26,7 @@
 1.  **Fork Repo First, [`CLICK HERE`](https://github.com/DeeCeeXxx/Queen-ELIAKIM MD/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
 2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://eliakim-md-pairing-wumi.onrender.com) 
  OR BY [`SCANNING QR CODE`](https://gojousession-05ea27b8ff9a.herokuapp.com/wasiqr)** 
-3. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/DeeCeeXxx/Queen-Anita_V4)**
+3. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Eliakim-md)**
 8. **You can visit Bot whatsapp channel [`BY CLICKING HERE`](https://whatsapp.com/channel/0029VablfKe9cDDZcDmkiN2G) for more**
 9. **All Tutorials Are `COMING SOON`**
 
