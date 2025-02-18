@@ -29,6 +29,8 @@
 3. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/DeeCeeXxx/ELIAKIM-MD)**
 8. **You can visit Bot whatsapp channel [`BY CLICKING HERE`](https://whatsapp.com/channel/0029VablfKe9cDDZcDmkiN2G) for more**
 9. **All Tutorials Are `COMING SOON`**
+10. DEPLOY ON HEROKU
+11. DEPLOY ON RENDER
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
